@@ -9,6 +9,7 @@ export default function Home() {
         {/* Center */}
       </main>
       <div>{/* Player */}</div>
+      <p className="cursor-pointer hover:text-white">Playlist name...</p>
     </div>
   );
 }
